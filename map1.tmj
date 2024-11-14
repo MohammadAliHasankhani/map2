@@ -475,7 +475,7 @@
                         {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
-                         "value":"{ \"DEFAULT_BACKGROUND\": \"#77ee77\" }"
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#21572f\" }"
                         }, 
                         {
                          "name":"jitsiRoom",
