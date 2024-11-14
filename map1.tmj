@@ -461,6 +461,53 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":158.73372832245,
+                 "id":24,
+                 "name":"jitsiTable",
+                 "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#77ee77\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiTable"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"click to join jitsi"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"float",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":126.128962504865,
+                 "x":510.521991091121,
+                 "y":95.2402369934697
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -542,8 +589,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":63,
- "nextobjectid":20,
+ "nextlayerid":64,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -572,7 +619,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
