@@ -485,7 +485,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":""
+                         "value":"group1"
                         }, 
                         {
                          "name":"jitsiTrigger",
