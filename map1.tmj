@@ -736,6 +736,33 @@
                  "width":0,
                  "x":287.436751286598,
                  "y":500.22574925399
+                }, 
+                {
+                 "height":128,
+                 "id":26,
+                 "name":"background music",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"ab.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":416,
+                 "x":223.5,
+                 "y":542.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -817,8 +844,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":26,
+ "nextlayerid":71,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
